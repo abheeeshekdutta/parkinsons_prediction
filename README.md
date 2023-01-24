@@ -1,2 +1,2 @@
 # Parkinson's Disease Prediction
-Predicting Parkinson's disease using XGBoost algorithm
+Predicting Parkinson's disease using PyCaret
